@@ -40,3 +40,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin]
 gem 'minitest-reporters'
 gem 'mini_backtrace'
 gem 'bootstrap-sass'
+gem 'bcrypt'
